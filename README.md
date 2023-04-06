@@ -1,6 +1,9 @@
 # job_explorer_app
 
-A new Flutter project.
+# Jops Explore App UI
+screenshot 
+![jops](https://user-images.githubusercontent.com/60976526/230505674-42e5cfa7-0e28-4305-8582-19b95eab832d.jpg)
+
 
 ## Getting Started
 
