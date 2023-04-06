@@ -1,0 +1,64 @@
+{
+    "jobs": [
+        {
+            "title": "Human Resources Senior Officer",
+            "address": "Gaza",
+            "timeAgo": "2 minutes ago",
+            "companyLogo": "assets/images/care.png",
+            "type": "Full Time",
+            "experienceLevel": "Senior level",
+            "experienceLevelColor": "ff0000",
+            "isMyFav": false
+        },
+        {
+            "title": "Office Custodian/Cleaner",
+            "address": "Gaza ",
+            "timeAgo": "2 minutes ago",
+            "companyLogo": "assets/images/chemonics.png",
+            "type": "Full Time",
+            "experienceLevel": "Entry level",
+            "experienceLevelColor": "92D88B",
+            "isMyFav": false
+        },
+        {
+            "title": "Automation Business Analyst",
+            "address": "Munich/Ramallah ",
+            "timeAgo": "2 hours ago",
+            "companyLogo": "assets/images/innotech.png",
+            "type": "Full Time",
+            "experienceLevel": "Mid-Senior level",
+            "experienceLevelColor": "4495FF",
+            "isMyFav": false
+        },
+        {
+            "title": "Parts Officer ",
+            "address": "Bethlehem",
+            "timeAgo": "2 hours ago",
+            "companyLogo": "assets/images/palestineco.png",
+            "type": "Full Time",
+            "experienceLevel": "Associate",
+            "experienceLevelColor": "0000ff",
+            "isMyFav": false
+        },
+        {
+            "title": "Sales Representative",
+            "address": "Ramallah and Al-Bireh",
+            "timeAgo": "2 weeks ago",
+            "companyLogo": "assets/images/AMIE.png",
+            "type": "Full Time",
+            "experienceLevel": "Associate",
+            "experienceLevelColor": "0000ff",
+            "isMyFav": false
+        },
+        {
+            "title": "Programme Assistant - Medical",
+            "address": "Jerusalem",
+            "timeAgo": "2 weeks ago",
+            "companyLogo": "assets/images/MAP.jpg",
+            "type": "Full Time",
+            "experienceLevel": "Entry level",
+            "experienceLevelColor": "92D88B",
+            "isMyFav": false
+        }
+    ]
+}
